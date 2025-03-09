@@ -1,10 +1,10 @@
 # Like & View Bot
 
-Простой и эффективный бот для автоматической отправки лайков и просмотров на платформу [Rooms.xyz](https://rooms.xyz). Поддерживает работу в нескольких потоках и бесконечный режим для постоянной работы. Идеален для пользователей, которые хотят автоматизировать свои активности на платформе.
+**⚠️ Warning: This is a tool provided for educational and experimental purposes. I am not responsible for any consequences arising from the use of this code. Use it at your own risk.**
 
-## Язык
+## Язык / Language
 
-Выберите язык для отображения описания:
+**Выберите язык для отображения описания / Select a language to display the description**
 
 - [English](#english)
 - [Русский](#russian)
