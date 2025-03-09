@@ -1,7 +1,5 @@
 # Like & View Bot
 
-**⚠️ Warning: This is a tool provided for educational and experimental purposes. I am not responsible for any consequences arising from the use of this code. Use it at your own risk.**
-
 ## Язык / Language
 
 **Выберите язык для отображения описания / Select a language to display the description**
@@ -12,6 +10,8 @@
 ---
 
 ## English
+
+**⚠️ Warning: This is a tool provided for educational and experimental purposes. I am not responsible for any consequences arising from the use of this code. Use it at your own risk.**
 
 This project is a bot that automatically sends likes and views to the [Rooms.xyz](https://rooms.xyz) platform. The bot uses Python’s `aiohttp` library for asynchronous HTTP requests and provides a GUI built with PyQt6 for easy interaction.
 
@@ -68,6 +68,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Русский
+
+**⚠️ Предупреждение: Это инструмент, предоставленный для образовательных и экспериментальных целей. Я не несу ответственности за любые последствия, связанные с использованием этого кода. Используйте его на свой страх и риск.**
 
 Этот проект представляет собой бота для автоматической отправки лайков и просмотров на платформу [Rooms.xyz](https://rooms.xyz). Бот использует библиотеку `aiohttp` для асинхронных HTTP запросов и предоставляет графический интерфейс, построенный с помощью PyQt6 для удобного взаимодействия с ботом.
 
